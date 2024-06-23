@@ -4,7 +4,7 @@
 
 <div align="center">
     
-# United States National Library of Medicine (NLM)
+# detik.com
 [![scrape_hashtag](https://github.com/dvprmta/scrapping-mds/actions/workflows/main.yml/badge.svg)](https://github.com/dvprmta/scrapping-mds/actions/workflows/main.yml)
 
 <p align="center">
